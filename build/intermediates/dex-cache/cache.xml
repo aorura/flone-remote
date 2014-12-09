@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\User\git\FloneRemote\app\libs\controlP5.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="400e1f7c27a64f446f83f293e4c56e9ae2c49a60">
+        <dex dex="C:\Users\User\git\FloneRemote\app\build\intermediates\pre-dexed\debug\controlP5-4867b4da27b0cdd81133d8ddb004e696c643ed14.jar" />
+    </item>
+    <item
+        jar="C:\Users\User\git\FloneRemote\app\libs\processing-core.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e4708b5eeaa3a26a59bacba5ec31f4c0ab9689ca">
+        <dex dex="C:\Users\User\git\FloneRemote\app\build\intermediates\pre-dexed\debug\processing-core-8a8e6e1696c64d8bec089fa7905d396d86760750.jar" />
+    </item>
+
+</items>
